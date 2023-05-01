@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.endOfLine": "auto",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.singleQuote": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/assets/css"
+    }
+  ]
+}

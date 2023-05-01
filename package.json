@@ -1,0 +1,14 @@
+{
+  "name": "create-php-project-boilerplate",
+  "version": "1.0.0",
+  "description": "PHP Project Starter. ",
+  "scripts": {
+    "start": "npx browser-sync start --config bs-config.js"
+  },
+  "keywords": [],
+  "author": "bkanhu",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.1"
+  }
+}
